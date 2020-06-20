@@ -1,0 +1,120 @@
+
+body{
+    padding: 0;
+    margin: auto;
+    background-color: #69c4f8;
+}
+
+
+ul{
+	list-style-type: none;
+	margin: 0;
+    padding:0;
+    margin-top: -4px;
+    height: 55px;
+	overflow: hidden;
+	background-color: #3694C2;
+    font-family: calibri;
+    font-size: large;
+    
+    
+}
+
+li{
+    float:left;
+    padding-top: 5px;
+    color: #2b3e49;
+
+}
+li a{
+    margin-left: 15px;
+	display:block;
+	color:white;
+	text-align: center;
+	padding: 14px 20px;
+	text-decoration: none;
+}
+
+li a:hover {
+    background-color: #69c4f8;
+
+}
+
+marquee{
+    margin-top:-12px;
+    padding-top: -25px;
+    font-family: calibri;
+    color: rgb(63, 63, 141);
+    font-size: x-large;
+}
+p{
+    font-family:  calibri ;
+    font-size: 23px;
+    margin-top: 50px;
+    color: #2b3e49;
+    font-weight: bold;
+}
+
+.tit{
+    margin-top: -38px;
+    color: aliceblue;
+    font-family: calibri;
+}
+.tit2{
+    margin-top: -38px;
+    margin-left: -90px;
+    color: rgb(0, 0, 0);
+    font-family: calibri;
+    font-size: 27px;
+    
+}
+.tabla{
+    margin: auto;
+    padding: 0%;
+    padding-top: 50px;
+}
+h1{
+    color:rgb(63, 63, 141);
+}
+th{
+   color:rgb(63, 63, 141);
+   font-family: calibri;
+   font-size: 26px;
+   
+}
+
+ol {
+    font-family: calibri;
+    font-size:26px ;
+    color: #2b3e49;
+}
+b{
+    color: #2b3e49;
+}
+iframe{
+   margin: auto;
+   width: 700px;
+   height: 500px;
+}
+.login{
+	margin: auto;
+	padding: 0;
+	background-color:#a0edfd;
+	font-family: calibri;
+	font-size: 25px;
+}
+.loginBox {
+    margin:100px auto ;
+	width: 400px;
+	height: 500px;
+	background:#0b5e85;
+	color: #fff;
+	
+
+}
+.form{
+    font-family: calibri;
+    font-size: large;
+    color: #2b3e49;
+    line-height: 50px;
+}
